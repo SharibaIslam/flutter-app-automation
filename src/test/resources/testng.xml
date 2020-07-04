@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="1" name="Android Automation Suite">
+    <test name="Flutter Customer App Automation">
+
+        <classes>
+            <class name="testCases.TestLoginPage"/>
+            <class name="testCases.TestChangePINPage"/>
+
+        </classes>
+    </test>
+</suite>

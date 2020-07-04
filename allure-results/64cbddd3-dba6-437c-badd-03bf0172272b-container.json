@@ -1,0 +1,1 @@
+{"uuid":"64cbddd3-dba6-437c-badd-03bf0172272b","name":"Customer App Automation","start":1562233429326,"stop":1562233481720,"children":["9c67be92-8617-4ce1-bb62-9c2099cceefc"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","start":1562233429352,"stop":1562233459639}]}
